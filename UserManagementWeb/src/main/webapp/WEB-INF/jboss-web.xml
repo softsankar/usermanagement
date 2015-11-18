@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>userman</context-root>
+</jboss-web>
